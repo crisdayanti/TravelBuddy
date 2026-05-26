@@ -36,10 +36,13 @@ Multi-screen React Native app dengan React Navigation.
 ## Screenshots
 ## Home
 <img width="574" height="1280" alt="image" src="https://github.com/user-attachments/assets/927327e1-807b-41cd-b74c-a295d0e5b0dc" />
+
 ## Detail Home
 <img width="574" height="1280" alt="image" src="https://github.com/user-attachments/assets/ec425571-0570-4e94-a9d8-8b897fdced4f" />
+
 ## Search
 <img width="574" height="1280" alt="image" src="https://github.com/user-attachments/assets/f84eb211-a4fc-4e00-bfba-52f6e3a16150" />
+
 ## Favorit
 <img width="720" height="1604" alt="image" src="https://github.com/user-attachments/assets/684af80f-cfaa-4c5b-8469-9c147c03e13e" />
 
