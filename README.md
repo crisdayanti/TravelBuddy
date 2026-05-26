@@ -49,4 +49,4 @@ Multi-screen React Native app dengan React Navigation.
 
 
 ## Author
-[Crisdayanti Laggita Br Siagian]
+Crisdayanti Laggita Br Siagian
