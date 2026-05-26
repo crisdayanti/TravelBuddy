@@ -14,7 +14,7 @@ Multi-screen React Native app dengan React Navigation.
 - Responsive Layout — Jalan smooth di berbagai ukuran HP (test: minimal iPhone SE + Android phone)
 - ScrollView / Safe Area — Tidak ada content yang tercover notch atau navigation bar
 - GitHub Repository — Push ke GitHub dengan README.md + screenshot
-⭐ Nice-to-Have Features (Bonus +5%)
+✅ Nice-to-Have Features (Bonus +5%)
 - Add to Favorites button di DetailScreen (simpan ke state atau AsyncStorage)
 - Search functionality dengan filter destinations by name
 - Display favorites count di tab badge
